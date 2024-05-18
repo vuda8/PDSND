@@ -1,17 +1,26 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Project Title
+
+Udacity Data Science Nanodegree - Project:  Post Your Work on GitHub
 
 ### Date created
-Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
+May 18, 2024
 
 ### Description
-Describe what your project is about and what it does
+
+This project is a part of the Udacity Data Science Nanodegree.
 
 ### Files used
-Include the files used
+
+- `Git Commands Documentation.pdf`: For project
+- `README.md`: This file, which contains project details and information
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+This project was inspired by and benefited from the following resources:
+
+- [Original Udacity repository](https://github.com/udacity/repo-name) - The starting point for this project
+- [Blog Post or Tutorial Link](https://example.com) - Detailed guide on [topic]
+- [Another GitHub Repo](https://github.com/username/repo-name) - Example projects and references
+
+Special thanks to the Udacity instructors and mentors for their guidance and support throughout this project.
